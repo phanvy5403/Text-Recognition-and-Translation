@@ -1,0 +1,2 @@
+Vì github không cho upload file có kích thước lớn nên chỉ lưu dữ liệu và model của translator trên drive. 
+Link: https://drive.google.com/drive/folders/1dgjYEYHM9ne0ZRLWD-Yv-yA6Hn0ABjfo?usp=drive_link
